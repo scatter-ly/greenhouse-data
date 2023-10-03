@@ -1,0 +1,3 @@
+codecomponent:
+  lifecycle: production
+  service: scatter-ly/greenhouse
